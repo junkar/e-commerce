@@ -1,0 +1,7 @@
+version: '2.4'
+
+services:
+  productserver:
+    image: product-server:0.0.1
+    ports:
+      - 9291:9291

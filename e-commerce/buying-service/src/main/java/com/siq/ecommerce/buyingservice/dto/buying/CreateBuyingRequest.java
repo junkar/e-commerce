@@ -1,0 +1,10 @@
+package com.siq.ecommerce.buyingservice.dto.buying;
+
+import lombok.*;
+
+@Value
+@NoArgsConstructor(force = true, access = AccessLevel.PRIVATE)
+public class CreateBuyingRequest {
+    String cityCode;
+    String location;
+}

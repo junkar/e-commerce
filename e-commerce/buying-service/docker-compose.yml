@@ -1,0 +1,7 @@
+version: '2.4'
+
+services:
+  buyingservice:
+    image: buying-service:0.0.1
+    ports:
+      - 9090:9090
