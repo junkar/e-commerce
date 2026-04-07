@@ -368,6 +368,6 @@ This project is currently a backend-focused implementation and is best understoo
 
 ## Author
 
-Developed by junkar
+Developed by [junkar](https://github.com/junkar)
 
 If you found this project useful, consider starring the repository.
